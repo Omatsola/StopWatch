@@ -16,7 +16,7 @@ Demo Features
 
 Project Structure
 
-text
-- index.html      Page structure & content
-- style.css       Styling & CSS variables for themes
-- script.js       Stopwatch logic & theme switcher
+Text
+- index.html:    Page structure & content
+- style.css:   Styling & CSS variables for themes
+- script.js:    Stopwatch logic & theme switcher
